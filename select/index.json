@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "嵐の中で輝いて",
+  "base_artist": "米倉千尋",
+  "createdAt": "2025-12-02T10:19:29.504666Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "嵐の中で輝いて",
+      "artist": "米倉千尋",
+      "has_synced": true,
+      "path": "select/01_嵐の中で輝いて_米倉千尋.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Arashi no Naka de Kagayaite [嵐の中で輝いて]",
+      "artist": "Chihiro Yonekura",
+      "has_synced": true,
+      "path": "select/02_Arashi_no_Naka_de_Kagayaite_[嵐の中で輝いて]_Chihiro_Yonekura.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "嵐の中で輝いて",
+      "artist": "Chihiro Yonekura",
+      "has_synced": true,
+      "path": "select/03_嵐の中で輝いて_Chihiro_Yonekura.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "嵐の中で輝いて(Stormy version)",
+      "artist": "米倉千尋",
+      "has_synced": false,
+      "path": "select/04_嵐の中で輝いて(Stormy_version)_米倉千尋.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "嵐の中で輝いて",
+      "artist": "玉置成実",
+      "has_synced": true,
+      "path": "select/05_嵐の中で輝いて_玉置成実.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "嵐の中で輝いて",
+      "artist": "KANA",
+      "has_synced": true,
+      "path": "select/06_嵐の中で輝いて_KANA.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "嵐の中で輝いて",
+      "artist": "米倉千尋",
+      "has_synced": true,
+      "path": "select/07_嵐の中で輝いて_米倉千尋.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "嵐の中で輝いて(GUNDAM 20th ANNIVERSARY VER)",
+      "artist": "米倉千尋",
+      "has_synced": true,
+      "path": "select/08_嵐の中で輝いて(GUNDAM_20th_ANNIVERSARY_VER)_米倉千尋.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "嵐の中で輝いて (機動戦士ガンダム第08MS小隊)",
+      "artist": "Masako Iwanaga",
+      "has_synced": true,
+      "path": "select/09_嵐の中で輝いて_(機動戦士ガンダム第08MS小隊)_Masako_Iwanaga.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "嵐の中で輝いて",
+      "artist": "Chihiro Yonekura",
+      "has_synced": true,
+      "path": "select/10_嵐の中で輝いて_Chihiro_Yonekura.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "嵐の中で輝いて - Arashi no Naka de Kagayaite",
+      "artist": "Chihiro Yonekura",
+      "has_synced": true,
+      "path": "select/11_嵐の中で輝いて_-_Arashi_no_Naka_de_Kagayaite_Chihiro_Yonekura.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "嵐の中で輝いて",
+      "artist": "EXIT TUNES",
+      "has_synced": true,
+      "path": "select/12_嵐の中で輝いて_EXIT_TUNES.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "嵐の中で輝いて",
+      "artist": "Various",
+      "has_synced": true,
+      "path": "select/13_嵐の中で輝いて_Various.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "嵐の中で輝いて",
+      "artist": "Sasaki Sayaka",
+      "has_synced": true,
+      "path": "select/14_嵐の中で輝いて_Sasaki_Sayaka.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "嵐の中で輝いて （機動戦士ガンダム第08MS小隊）",
+      "artist": "玉置成実",
+      "has_synced": true,
+      "path": "select/15_嵐の中で輝いて_(機動戦士ガンダム第08MS小隊)_玉置成実.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "嵐の中で輝いて",
+      "artist": "佐咲紗花",
+      "has_synced": true,
+      "path": "select/16_嵐の中で輝いて_佐咲紗花.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "嵐の中で輝いて /  with 田ノ岡三郎",
+      "artist": "森口博子",
+      "has_synced": true,
+      "path": "select/17_嵐の中で輝いて___with_田ノ岡三郎_森口博子.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "嵐の中で輝いて (Stormy Version)",
+      "artist": "米倉千尋",
+      "has_synced": false,
+      "path": "select/18_嵐の中で輝いて_(Stormy_Version)_米倉千尋.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "嵐の中で輝いて",
+      "artist": "米倉 千尋",
+      "has_synced": false,
+      "path": "select/pl_01_嵐の中で輝いて_米倉_千尋.txt"
+    }
+  ]
+}
